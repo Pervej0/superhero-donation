@@ -6,7 +6,7 @@ const Header = () => {
       <nav className="navbar navbar-expand-lg navbar-light bg-light px-5 py-3">
         <div className="container-fluid">
           <a className="navbar-brand fst-italic" href="#">
-            PrTrustCenter
+            <h4>PrTrustCenter</h4>
           </a>
           <button
             className="navbar-toggler"
@@ -22,20 +22,24 @@ const Header = () => {
           <div className="collapse navbar-collapse" id="navbarSupportedContent">
             <ul className="navbar-nav ms-auto mb-2 mb-lg-0">
               <li className="nav-item">
-                <a className="nav-link" aria-current="page" href="#">
+                <a
+                  className="nav-link text-dark fw-semibold"
+                  aria-current="page"
+                  href="#"
+                >
                   Home
                 </a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="#">
+                <a className="nav-link text-dark fw-semibold" href="#">
                   About
                 </a>
               </li>
               <li className="nav-item">
-                <a className="nav-link">Latest</a>
+                <a className="nav-link text-dark fw-semibold">Latest</a>
               </li>
               <li className="nav-item">
-                <a className="nav-link">FAQ</a>
+                <a className="nav-link text-dark fw-semibold">FAQ</a>
               </li>
             </ul>
           </div>
