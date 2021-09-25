@@ -1,0 +1,83 @@
+[
+  {
+    "id": 0,
+    "name": "Bernard Arnault",
+    "born": "5 March 1949",
+    "spouse": "Hélène Mercier",
+    "nationality": "French",
+    "donate": 20000,
+    "img": "https://manofmany.com/wp-content/uploads/2021/04/bernard-arnault.jpg"
+  },
+  {
+    "id": 1,
+    "name": "Jeff Bezos",
+    "born": "12 January 1964",
+    "spouse": "MacKenzie Scott",
+    "nationality": "American",
+    "donate": 180000,
+    "img": "https://manofmany.com/wp-content/uploads/2021/04/jeff-bezos.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Elon Musk",
+    "born": "28 June 1971",
+    "spouse": "Grimes",
+    "nationality": "École Polytechnique",
+    "donate": 40000,
+    "img": "https://manofmany.com/wp-content/uploads/2021/04/elon-musk.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Bill Gates",
+    "born": "28 October 1955",
+    "spouse": "Melinda Gates",
+    "nationality": "American",
+    "donate": 39000,
+    "img": "https://manofmany.com/wp-content/uploads/2021/04/bill-gates.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Mark Zuckerberg",
+    "born": "14 May 1984",
+    "spouse": "Priscilla Chan",
+    "nationality": "American",
+    "donate": 340000,
+    "img": "https://manofmany.com/wp-content/uploads/2021/04/mark-zuckerberg.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Warren Buffett",
+    "born": "30 August 1930",
+    "spouse": "Astrid Menks",
+    "nationality": "American",
+    "donate": 50000,
+    "img": "https://manofmany.com/wp-content/uploads/2021/04/warren-buffett.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Larry Ellison",
+    "born": "17 August 1944",
+    "spouse": "Melanie Craft",
+    "nationality": "American",
+    "donate": 180000,
+    "img": "https://manofmany.com/wp-content/uploads/2021/04/larry-ellison.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Larry Page",
+    "born": "5 March 1949",
+    "spouse": "Lucinda Southworth",
+    "nationality": "Amercian",
+    "donate": 220000,
+    "img": "https://manofmany.com/wp-content/uploads/2021/04/larry-page.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Sergey Brin",
+    "born": "21 August 1973",
+    "spouse": "Nicole Shanahan",
+    "nationality": "Russian",
+    "donate": 20000,
+    "img": "https://manofmany.com/wp-content/uploads/2021/04/jeff-bezos.jpg"
+  }
+]
