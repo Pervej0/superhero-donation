@@ -48,9 +48,13 @@ const DonatorContainer = () => {
           ))}
         </div>
         <div className="col-3">
-          <h5 className="text-success">Totall Donor: {showDonors.length}</h5>
-          <h5 className="text-success mb-4">
-            Collected amount: $<small>{collectedAmount}</small>
+          <h5 className="text-dark">
+            Totall Donor:{" "}
+            <span className="text-success">{showDonors.length}</span>
+          </h5>
+          <h5 className="text-dark mb-4">
+            Collected amount: <span className="text-success">$</span>
+            <small className="text-success">{collectedAmount}</small>
           </h5>
           {showDonors.map((donor) => (
             <ListedDonator
